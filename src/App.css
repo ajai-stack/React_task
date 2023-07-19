@@ -1,0 +1,59 @@
+.main{
+  text-align: center;
+  margin-top: 100px;
+}
+b{
+  font-size: 20px;
+}
+.mb-3{
+  margin-left: 150px;
+}
+.group{
+  padding: 20px;
+  height:230px;
+  margin-left: 300px;
+  margin-right: 300px;
+  box-shadow: 0 0.5rem 2rem rgb(172, 166, 166);
+  border-radius: 5px;
+}
+.details{
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 300px;
+  margin-right: 300px;
+  box-shadow: 0 0.5rem 2rem rgb(172, 166, 166);
+  border-radius: 5px;
+  
+} 
+.details p{
+   font-size: 25px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px){
+    .group{
+     margin-left: -90px;
+     margin-right: -90px;
+    }
+   .details{
+      margin-left: -90px;
+     margin-right: -90px;
+   }
+
+
+}
